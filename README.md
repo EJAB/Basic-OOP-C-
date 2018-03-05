@@ -1,2 +1,22 @@
 # Basic-OOP-C-
 Final year assignment that displays basic OOP principles using Cpp
+- Correct use of all access specifiers (public, private, protected) in an appropriate way.
+- Over-loading using methods or constructors.
+- Over-riding of a method.
+- An example of Multiple Inheritance (it does not have to make perfect sense).
+- Separate compilation with all classes in your assignment.
+- Example use of a friend functions that receives an object of a class.
+- Abstract classes with a method that is required in all derived classes.
+- A class with a modified copy constructor and demonstrate the effect of this on pass-by-value and pass-by-reference calls.
+- A working destructor with some basic functionality. Demonstrate it working in your main() function.
+- Correct use of three over-loaded operators (e.g., +, = and ==) for one of your classes.
+- Operations on pointers to arrays of objects. The operation should call the function that is defined in point 6 above.
+- Use of all four C++ style casts. 
+- Use of dynamic binding with virtual & non-virtual methods. Demonstrate the impact.
+- Correct use of new and delete for the allocation of an object/objects, with operations on the object using pointers. (Can be combined with other points)
+- Static states of a class and an example usage. Demonstrate the impact.
+- Demonstrates the difference between a C++ class and a C++ struct.
+- Passing an object to a method by constant reference. Demonstrate the impact.
+- Write a straightforward class template.
+- Use of the vector container to contain a number of objects of one of your classes.
+- Use of an algorithm on your container.
